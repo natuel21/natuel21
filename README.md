@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natuel21
-- 👀 I’m interested in coding
+- 👀 I’m interested in anything but challenging 
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @natuel(telegram)
